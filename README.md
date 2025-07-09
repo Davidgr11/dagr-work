@@ -1,6 +1,6 @@
 # Professional Portfolio — David A. González R.
 
-![PREVIEW](https://dagr.netlify.app)
+[PREVIEW](https://dagr.netlify.app)
 
 > **Software Engineer & Fullstack Developer**
 
