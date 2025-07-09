@@ -23,8 +23,10 @@ Modern, responsive, and animated personal portfolio — perfect for showcasing y
 
 ---
 
-## ✅ Excelent Performance
+## ✅ Great Performance
+
 PageSpeed Insights: [AQUÍ](https://pagespeed.web.dev/analysis/https-dagr-netlify-app/3nzhdhfvsk?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext)
+
 ![Lighthouse](/assets/lighthouse.png)
 ---
 
@@ -75,14 +77,6 @@ data/
 ## 🌐 Multilanguage
 
 All content is managed from `data/content.json` and you can switch between Spanish and English with the top button.
-
----
-
-## ☁️ Quick Deployment
-
-- **Netlify**: Just drag the folder to the Netlify dashboard.
-- **Vercel**: Upload the repo and select as a static project.
-- **GitHub Pages**: Upload the content and set the branch as a page.
 
 ---
 
