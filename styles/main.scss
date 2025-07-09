@@ -430,13 +430,26 @@ body.light {
       background: $color-bg-glass-light;
       border-radius: $radius;
       margin-bottom: 0.7rem;
-      padding: 1rem 3rem;
+      padding: 1rem 2rem 1rem 5rem;
       font-weight: 600;
       box-shadow: $color-shadow;
+      position: relative;
       transition: background $transition, color $transition;
+      @media (min-width: 750px) {
+        padding-left: 6rem;
+      }
       &:hover {
         background: $color-neon;
         color: $color-bg-dark;
+      }
+      &::before {
+        content: '🚀';
+        position: absolute;
+        left: 1rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1.3em;
+        filter: drop-shadow(0 0 2px #00ffe7);
       }
     }
   }

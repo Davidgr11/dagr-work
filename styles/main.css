@@ -1,3 +1,4 @@
+@charset "UTF-8";
 html {
   width: 90%;
   margin: 0 auto;
@@ -436,14 +437,29 @@ body.light {
   background: rgba(255, 255, 255, 0.12);
   border-radius: 1.2rem;
   margin-bottom: 0.7rem;
-  padding: 1rem 3rem;
+  padding: 1rem 2rem 1rem 5rem;
   font-weight: 600;
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  position: relative;
   transition: background 0.3s cubic-bezier(0.4, 0, 0.2, 1), color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+@media (min-width: 750px) {
+  .achievements__list li {
+    padding-left: 6rem;
+  }
 }
 .achievements__list li:hover {
   background: #00ffe7;
   color: #0e1624;
+}
+.achievements__list li::before {
+  content: "🚀";
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.3em;
+  filter: drop-shadow(0 0 2px #00ffe7);
 }
 
 .contact__form {
