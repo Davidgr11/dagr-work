@@ -1,6 +1,6 @@
 # Portafolio Profesional — David A. González R.
 
-![Preview](https://dagr.work)
+Link: [Preview](https://dagr.work)
 
 > **Software Engineer & Fullstack Developer**
 
