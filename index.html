@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>David Work Portfolio</title>
+  <link rel="icon" type="image/png" href="assets/favicon.png?v=2">
+  <meta name="description" content="Software Engineer & Fullstack Developer - David A Gonzalez R Portfolio">
+  <meta name="author" content="David A Gonzalez R">
+  <meta name="keywords" content="David A Gonzalez R, portafolio, frontend, developer, diseño web, desarrollo web, responsive, animaciones, tecnologías, proyectos, certificaciones, logros, contacto">
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="particles-js"></div>
+  <div class="top-controls">
+    <button id="lang-toggle" class="toggle-btn">ES</button>
+    <button id="theme-toggle" class="toggle-btn">🌙</button>
+  </div>
+  <main class="main">
+    <section class="hero" id="hero">
+      <div class="hero__content">
+        <h1 class="hero__role gradient-text">Frontend Developer</h1>
+        <p class="hero__desc">Apasionado por crear experiencias web modernas, rápidas y atractivas. ¡Bienvenido a mi portafolio!</p>
+        <div class="hero__links">
+          <a href="#" target="_blank" class="btn hero__btn">GitHub</a>
+          <a href="#" target="_blank" class="btn hero__btn">LinkedIn</a>
+          <a href="#" download class="btn hero__btn">Descargar CV</a>
+          <a href="#" class="btn hero__btn">Descargar CV</a>
+        </div>
+      </div>
+    </section>
+    <section class="about" id="about">
+      <h2 class="section-title gradient-text about__title">Sobre mí</h2>
+      <div class="about__content">
+        <div class="about__img">
+          <img src="" alt="Foto de Alex Dev">
+        </div>
+        <div class="about__info">
+          <p class="about__desc">Desarrollador frontend con enfoque en usabilidad, rendimiento y diseño responsivo. Graduado en Ingeniería en Computación.</p>
+          <ul class="about__education">
+            <li>2020-2024: Ingeniería en Computación, Universidad Tech</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section class="experience" id="experience">
+      <h2 class="section-title gradient-text experience__title">Experiencia</h2>
+      <div class="timeline experience__timeline">
+        <div class="timeline__item">
+          <div class="timeline__dot"></div>
+          <div class="timeline__date">2024 - Presente</div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Frontend Developer - BlueWeb</h3>
+            <p>Desarrollo de interfaces modernas y animadas para clientes internacionales.</p>
+          </div>
+        </div>
+        <div class="timeline__item">
+          <div class="timeline__dot"></div>
+          <div class="timeline__date">2022 - 2024</div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Web Developer - GreenCode</h3>
+            <p>Implementación de soluciones web responsivas y optimización de rendimiento.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="technologies" id="technologies">
+      <h2 class="section-title gradient-text technologies__title">Tecnologías</h2>
+      <div class="technologies__list">
+        <!-- Renderizado dinámico con JS: cada tecnología con ícono y nombre -->
+      </div>
+    </section>
+    <section class="projects" id="projects">
+      <h2 class="section-title gradient-text projects__title">Proyectos</h2>
+      <div class="projects__list" id="projects-list">
+        <!-- Renderizado dinámico con JS: cards con imagen, nombre, desc, links -->
+      </div>
+      <button id="more-projects" class="btn projects__btn">Ver más</button>
+    </section>
+    <section class="certifications" id="certifications">
+      <h2 class="section-title gradient-text certifications__title">Certificaciones</h2>
+      <div class="certifications__list" id="certifications-list">
+        <!-- Renderizado dinámico con JS: cards con imagen, nombre, org -->
+      </div>
+    </section>
+    <section class="achievements" id="achievements">
+      <h2 class="section-title gradient-text achievements__title">Logros</h2>
+      <ul class="achievements__list">
+        <li>Top 5 en hackathon nacional 2023</li>
+        <li>Certificado en Responsive Web Design</li>
+        <li>Reconocimiento a la innovación en BlueWeb</li>
+      </ul>
+    </section>
+    <section class="contact" id="contact">
+      <h2 class="section-title gradient-text contact__title">Contacto</h2>
+      <form name="contact" netlify data-netlify="true" class="contact__form">
+        <input type="hidden" name="form-name" value="contact">
+        <input type="text" name="name" class="contact__input" placeholder="Nombre" required>
+        <input type="email" name="email" class="contact__input" placeholder="Email" required>
+        <textarea name="message" class="contact__textarea" placeholder="Mensaje" required></textarea>
+        <button type="submit" class="btn contact__btn">Enviar</button>
+      </form>
+    </section>
+  </main>
+  <script src="scripts/main.js"></script>
+  <script src="scripts/particles.js"></script>
+</body>
+</html> 

@@ -1,0 +1,644 @@
+{
+    "es": {
+        "header": {
+            "role": "Ingeniero de Software y Desarrollador Fullstack",
+            "desc": "Apasionado por la tecnología, el desarrollo de software y la innovación, con 2+ años de experiencia en el área. ¡Bienvenido a mi portafolio!",
+            "links": [
+                {
+                    "label": "GitHub",
+                    "url": "https://github.com/Davidgr11"
+                },
+                {
+                    "label": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/davidagr/"
+                },
+                {
+                    "label": "Curriculum",
+                    "url": "RESUME_DAVID_ALEJANDRO_GONZALEZ_ROBLES.pdf",
+                    "download": true
+                },
+                {
+                    "label": "Correo",
+                    "url": "mailto:da.gr@lasallistas.org.mx"
+                }
+            ]
+        },
+        "about": {
+            "title": "Sobre mí",
+            "desc": "Apasionado por crear software con impacto real, me gradué con excelencia académica en Ingeniería Cibernética y Sistemas Computacionales por la Universidad La Salle. He colaborado en proyectos relevantes en PwC, Grupo BMV y como cofundador de la startup EdTech Studially, recibiendo reconocimientos en liderazgo y tecnología. Actualmente, soy desarrollador freelance en una agencia de transformación digital y busco una pasantía internacional en ingeniería de software para seguir creciendo y aportar a proyectos globales.",
+            "photo": "assets/profile.avif",
+            "education": []
+        },
+        "experience": {
+            "title": "Experiencia",
+            "items": [
+                {
+                    "date": "Marzo 2025 - Presente",
+                    "role": "Desarrollador Fullstack - Devri Solutions",
+                    "desc": "Diseño, desarrollo y mantenimiento de soluciones web como: páginas de aterrizaje, sitios web, automatizaciones y aplicaciones web. Más de 20 proyectos entregados con éxito."
+                },
+                {
+                    "date": "Julio 2024 - Febrero 2025",
+                    "role": "Ingeniero de Software (Trainee & Associate) - PricewaterhouseCoopers PwC",
+                    "desc": "Contrucción y mantenimiento de la plataforma de auditoría y administración de activos digitales con blockchain. Colaboración con múltiples ingenieros y administradores de proyecto, utilizando metodologías ágiles."
+                },
+                {
+                    "date": "Enero 2024 - Junio 2024",
+                    "role": "Analista de TI (Trainee) - Bolsa Mexicana de Valores Grupo BMV",
+                    "desc": "Actualización de aplicaciones de auditoría, renovación de frameworks para mejorar la interfaz de usuario y automatización de reportes de datos para auditoría."
+                },
+                {
+                    "date": "Diciembre 2023 - Enero 2024",
+                    "role": "Cofundador - Studially Edtech Startup",
+                    "desc": "Desarrollo y publicación de aplicación móvil multiplataforma Studially. Implementación de pruebas alfa y beta para Android (PlayStore) y iOS (AppStore)."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Tecnologías",
+            "items": [
+                {
+                    "name": "HTML5",
+                    "icon": "assets/icons/1.avif"
+                },
+                {
+                    "name": "CSS3",
+                    "icon": "assets/icons/2.avif"
+                },
+                {
+                    "name": "SASS",
+                    "icon": "assets/icons/3.avif"
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": "assets/icons/4.avif"
+                },
+                {
+                    "name": "Tailwind",
+                    "icon": "assets/icons/5.avif"
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "assets/icons/6.avif"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "assets/icons/7.avif"
+                },
+                {
+                    "name": "GSAP",
+                    "icon": "assets/icons/8.avif"
+                },
+                {
+                    "name": "React",
+                    "icon": "assets/icons/9.avif"
+                },
+                {
+                    "name": "Next.Js",
+                    "icon": "assets/icons/10.avif"
+                },
+                {
+                    "name": "Node.js",
+                    "icon": "assets/icons/11.avif"
+                },
+                {
+                    "name": "Express.js",
+                    "icon": "assets/icons/12.avif"
+                },
+                {
+                    "name": "Python",
+                    "icon": "assets/icons/13.avif"
+                },
+                {
+                    "name": "Java",
+                    "icon": "assets/icons/14.avif"
+                },
+                {
+                    "name": "C",
+                    "icon": "assets/icons/15.avif"
+                },
+                {
+                    "name": "Git",
+                    "icon": "assets/icons/16.avif"
+                },
+                {
+                    "name": "GitHub",
+                    "icon": "assets/icons/17.avif"
+                },
+                {
+                    "name": "AzureDevOps",
+                    "icon": "assets/icons/18.avif"
+                },
+                {
+                    "name": "Firebase",
+                    "icon": "assets/icons/19.avif"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "icon": "assets/icons/20.avif"
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": "assets/icons/21.avif"
+                },
+                {
+                    "name": "AWS",
+                    "icon": "assets/icons/22.avif"
+                }
+            ]
+        },
+        "projects": {
+            "title": "Proyectos",
+            "more": "Ver más",
+            "less": "Ver menos",
+            "items": [
+                {
+                    "title": "Crypto Tracker",
+                    "desc": "Widget que permite cotizar en tiempo real el precio de cryptomonedas, en distintas divisas.",
+                    "img": "assets/projects/P1.avif",
+                    "demo": "https://crypto-tracker-pro.netlify.app/",
+                    "repo": "https://github.com/Davidgr11/crypto-tracker-pro"
+                },
+                {
+                    "title": "ChefMaster",
+                    "desc": "Website dinámico, informativo y multipágina en el que los usuarios pueden consultar millones de recetas y guardar sus favoritas.",
+                    "img": "assets/projects/P3.avif",
+                    "demo": "https://davidgr11.github.io/chefmaster/",
+                    "repo": "https://github.com/Davidgr11/chefmaster"
+                },
+                {
+                    "title": "Studially",
+                    "desc": "Website y aplicación móvil para una startup de servicios de productividad y educación.",
+                    "img": "assets/projects/P10.avif",
+                    "demo": "https://studially.com/",
+                    "repo": "https://github.com/Davidgr11/studially-web"
+                },
+                {
+                    "title": "Omnifood",
+                    "desc": "Landing page enfocada en registrar a clientes potenciales para una prueba de su servicio de delivery.",
+                    "img": "assets/projects/P2.avif",
+                    "demo": "https://omnifood-deliverymeal.netlify.app/",
+                    "repo": "https://github.com/Davidgr11/omnifood"
+                },
+                {
+                    "title": "CRM Tool",
+                    "desc": "Herramienta que automatiza el registro y la administración de clientes.",
+                    "img": "assets/projects/P4.avif",
+                    "demo": "https://davidgr11.github.io/crm-tool/",
+                    "repo": "https://github.com/Davidgr11/crm-tool"
+                },
+                {
+                    "title": "Space Travel",
+                    "desc": "Website dinámico y multipágina, enfocado en informar a los internautas sobre misiones espaciales.",
+                    "img": "assets/projects/P5.avif",
+                    "demo": "https://davidgr11.github.io/space-travel/",
+                    "repo": "https://github.com/Davidgr11/space-travel"
+                },
+                {
+                    "title": "Devri",
+                    "desc": "Website dinámico y multipágina de una agencia de transformación digital que ofrece servicios de software y marketing.",
+                    "img": "assets/projects/P6.avif",
+                    "demo": "https://devri.com.mx/",
+                    "repo": "https://github.com/Davidgr11/devri-solutions"
+                },
+                {
+                    "title": "Book BarCodes",
+                    "desc": "Microapp que permite generar códigos de barra a partir de un ISBN, para venta de libros.",
+                    "img": "assets/projects/P7.avif",
+                    "demo": "https://englishbook-barcodes.netlify.app/",
+                    "repo": "https://github.com/Davidgr11/eb-barcodes"
+                },
+                {
+                    "title": "Seguros Pro",
+                    "desc": "Website dinámico e interactivo que ayuda a los usuarios a cotizar un seguro de auto según sus preferencias.",
+                    "img": "assets/projects/P8.avif",
+                    "demo": "https://davidgr11.github.io/seguros-pro/",
+                    "repo": "https://github.com/Davidgr11/seguros-pro"
+                },
+                {
+                    "title": "La Cafetería 1939",
+                    "desc": "Website estático y corporativo multipágina para una cafetería local, con el objetivo de obtener presencia digital.",
+                    "img": "assets/projects/P9.avif",
+                    "demo": "https://davidgr11.github.io/lacafeteria1939/",
+                    "repo": "https://github.com/Davidgr11/lacafeteria1939"
+                }
+            ]
+        },
+        "certifications": {
+            "title": "Certificaciones",
+            "more": "Ver más",
+            "less": "Ver menos",
+            "viewCert": "Ver certificado",
+            "items": [
+                {
+                    "title": "Diseño Web Responsivo",
+                    "org": "freeCodeCamp",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747853300065/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Bootstrap",
+                    "org": "Scrimba",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1748616709975/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "CSS & SASS",
+                    "org": "Udemy",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747244421906/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "HTML & CSS",
+                    "org": "Platzi",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747264974519/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Diseño Responsivo",
+                    "org": "Platzi",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747765315753/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Creación de Sitios Web",
+                    "org": "Udemy",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747256654782/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Certificación C1 Inglés",
+                    "org": "EF",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1733210574646/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Metodologías Ágiles - SCRUM",
+                    "org": "Scrum Study",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1730666859850/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Inteligencia Artificial Generativa",
+                    "org": "LinkedIn",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1725502265118/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Seguridad de la Información",
+                    "org": "PwC",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1732516761541/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Comunicación de Negocios Efectiva",
+                    "org": "Becker",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1725501952933/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Tecnologías Emergentes",
+                    "org": "Santander",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1715567356222/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "AWS Prácticas de la Nube",
+                    "org": "Amazon",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1730666683292/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Redes de Cisco",
+                    "org": "Cisco",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1635554261279/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                }
+            ]
+        },
+        "achievements": {
+            "title": "Logros",
+            "items": [
+                "Seleccionado para el programa de liderazgo de Harvard (Aspire), 2025.",
+                "Finalista Nacional Hackaton Talent Land, 2025",
+                "Admisión al programa de talento top en LATAM sobre desarrollo de software (Makers), 2025.",
+                "Premio CUE a la excelencia académica en La Salle, 2024.",
+                "Reconocimientos como ponente en emprendimiento tecnológico, 2024."
+            ]
+        },
+        "contact": {
+            "title": "Contacto",
+            "name": "Nombre",
+            "email": "Correo",
+            "message": "Mensaje",
+            "send": "Enviar"
+        }
+    },
+    "en": {
+        "header": {
+            "role": "Software Engineer & Fullstack Developer",
+            "desc": "Passionate about technology, software development, and innovation, with 2+ years of experience in the field. Welcome to my portfolio!",
+            "links": [
+                {
+                    "label": "GitHub",
+                    "url": "https://github.com/Davidgr11"
+                },
+                {
+                    "label": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/davidagr/"
+                },
+                {
+                    "label": "Resume",
+                    "url": "RESUME_DAVID_ALEJANDRO_GONZALEZ_ROBLES.pdf",
+                    "download": true
+                },
+                {
+                    "label": "Email",
+                    "url": "mailto:da.gr@lasallistas.org.mx"
+                }
+            ]
+        },
+        "about": {
+            "title": "About Me",
+            "desc": "Passionate about building software with real impact, I graduated with academic excellence in Cybernetics and Computational Systems Engineering from La Salle University. I have contributed to major projects at PwC, BMV Group, and as co-founder of the EdTech startup Studially, receiving recognition in leadership and technology. I am currently a freelance developer at a digital transformation agency and seeking an international software engineering internship to keep growing and contribute to global projects.",
+            "photo": "assets/profile.avif",
+            "education": []
+        },
+        "experience": {
+            "title": "Experience",
+            "items": [
+                {
+                    "date": "March 2025 - Present",
+                    "role": "Fullstack Developer - Devri Solutions",
+                    "desc": "Design, development, and maintenance of web solutions such as landing pages, websites, automations, and web applications. Successfully delivered over 20 projects."
+                },
+                {
+                    "date": "July 2024 - February 2025",
+                    "role": "Software Engineer (Trainee & Associate) - PricewaterhouseCoopers PwC",
+                    "desc": "Built and maintained the audit and digital asset management platform using blockchain. Collaborated with multiple engineers and project managers, applying agile methodologies."
+                },
+                {
+                    "date": "January 2024 - June 2024",
+                    "role": "IT Analyst (Trainee) - Mexican Stock Exchange BMV Group",
+                    "desc": "Updated auditing applications, renewed frameworks to improve user interface, and automated data reporting for auditing."
+                },
+                {
+                    "date": "December 2023 - January 2024",
+                    "role": "Co-founder - Studially Edtech Startup",
+                    "desc": "Developed and published the Studially cross-platform mobile app. Implemented alpha and beta testing for Android (PlayStore) and iOS (AppStore)."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Technologies",
+            "items": [
+                {
+                    "name": "HTML5",
+                    "icon": "assets/icons/1.avif"
+                },
+                {
+                    "name": "CSS3",
+                    "icon": "assets/icons/2.avif"
+                },
+                {
+                    "name": "SASS",
+                    "icon": "assets/icons/3.avif"
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": "assets/icons/4.avif"
+                },
+                {
+                    "name": "Tailwind",
+                    "icon": "assets/icons/5.avif"
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "assets/icons/6.avif"
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": "assets/icons/7.avif"
+                },
+                {
+                    "name": "GSAP",
+                    "icon": "assets/icons/8.avif"
+                },
+                {
+                    "name": "React",
+                    "icon": "assets/icons/9.avif"
+                },
+                {
+                    "name": "Next.Js",
+                    "icon": "assets/icons/10.avif"
+                },
+                {
+                    "name": "Node.js",
+                    "icon": "assets/icons/11.avif"
+                },
+                {
+                    "name": "Express.js",
+                    "icon": "assets/icons/12.avif"
+                },
+                {
+                    "name": "Python",
+                    "icon": "assets/icons/13.avif"
+                },
+                {
+                    "name": "Java",
+                    "icon": "assets/icons/14.avif"
+                },
+                {
+                    "name": "C",
+                    "icon": "assets/icons/15.avif"
+                },
+                {
+                    "name": "Git",
+                    "icon": "assets/icons/16.avif"
+                },
+                {
+                    "name": "GitHub",
+                    "icon": "assets/icons/17.avif"
+                },
+                {
+                    "name": "AzureDevOps",
+                    "icon": "assets/icons/18.avif"
+                },
+                {
+                    "name": "Firebase",
+                    "icon": "assets/icons/19.avif"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "icon": "assets/icons/20.avif"
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": "assets/icons/21.avif"
+                },
+                {
+                    "name": "AWS",
+                    "icon": "assets/icons/22.avif"
+                }
+            ]
+        },
+        "projects": {
+            "title": "Projects",
+            "more": "See more",
+            "less": "See less",
+            "items": [
+                {
+                    "title": "Crypto Tracker",
+                    "desc": "Widget for real-time cryptocurrency price quotes in various currencies.",
+                    "img": "assets/projects/P1.avif",
+                    "demo": "https://crypto-tracker-pro.netlify.app/",
+                    "repo": "https://github.com/Davidgr11/crypto-tracker-pro"
+                },
+                {
+                    "title": "ChefMaster",
+                    "desc": "Dynamic, multipage, and informative website where users can explore millions of recipes and save their favorites.",
+                    "img": "assets/projects/P3.avif",
+                    "demo": "https://davidgr11.github.io/chefmaster/",
+                    "repo": "https://github.com/Davidgr11/chefmaster"
+                },
+                {
+                    "title": "Studially",
+                    "desc": "Website and mobile app for a productivity and education startup.",
+                    "img": "assets/projects/P10.avif",
+                    "demo": "https://studially.com/",
+                    "repo": "https://github.com/Davidgr11/studially-web"
+                },
+                {
+                    "title": "Omnifood",
+                    "desc": "Landing page focused on registering potential clients for a delivery service trial.",
+                    "img": "assets/projects/P2.avif",
+                    "demo": "https://omnifood-deliverymeal.netlify.app/",
+                    "repo": "https://github.com/Davidgr11/omnifood"
+                },
+                {
+                    "title": "CRM Tool",
+                    "desc": "Tool to automate client registration and management.",
+                    "img": "assets/projects/P4.avif",
+                    "demo": "https://davidgr11.github.io/crm-tool/",
+                    "repo": "https://github.com/Davidgr11/crm-tool"
+                },
+                {
+                    "title": "Space Travel",
+                    "desc": "Dynamic multipage website focused on informing users about space missions.",
+                    "img": "assets/projects/P5.avif",
+                    "demo": "https://davidgr11.github.io/space-travel/",
+                    "repo": "https://github.com/Davidgr11/space-travel"
+                },
+                {
+                    "title": "Devri",
+                    "desc": "Dynamic multipage website for a digital transformation agency offering software and marketing services.",
+                    "img": "assets/projects/P6.avif",
+                    "demo": "https://devri.com.mx/",
+                    "repo": "https://github.com/Davidgr11/devri-solutions"
+                },
+                {
+                    "title": "Book BarCodes",
+                    "desc": "Microapp that generates barcodes from an ISBN for book sales.",
+                    "img": "assets/projects/P7.avif",
+                    "demo": "https://englishbook-barcodes.netlify.app/",
+                    "repo": "https://github.com/Davidgr11/eb-barcodes"
+                },
+                {
+                    "title": "Seguros Pro",
+                    "desc": "Dynamic and interactive website to help users get car insurance quotes based on their preferences.",
+                    "img": "assets/projects/P8.avif",
+                    "demo": "https://davidgr11.github.io/seguros-pro/",
+                    "repo": "https://github.com/Davidgr11/seguros-pro"
+                },
+                {
+                    "title": "La Cafetería 1939",
+                    "desc": "Static corporate multipage website for a local café, aimed at establishing digital presence.",
+                    "img": "assets/projects/P9.avif",
+                    "demo": "https://davidgr11.github.io/lacafeteria1939/",
+                    "repo": "https://github.com/Davidgr11/lacafeteria1939"
+                }
+            ]
+        },
+        "certifications": {
+            "title": "Certifications",
+            "more": "See more",
+            "less": "See less",
+            "viewCert": "View certificate",
+            "items": [
+                {
+                    "title": "Responsive Web Design",
+                    "org": "freeCodeCamp",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747853300065/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Bootstrap",
+                    "org": "Scrimba",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1748616709975/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "CSS & SASS",
+                    "org": "Udemy",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747244421906/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "HTML & CSS",
+                    "org": "Platzi",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747264974519/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Responsive Design",
+                    "org": "Platzi",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747765315753/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Website Creation",
+                    "org": "Udemy",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1747256654782/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "C1 English Certification",
+                    "org": "EF",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1733210574646/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Agile Methodologies - SCRUM",
+                    "org": "Scrum Study",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1730666859850/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Generative Artificial Intelligence",
+                    "org": "LinkedIn",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1725502265118/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Information Security",
+                    "org": "PwC",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1732516761541/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Effective Business Communication",
+                    "org": "Becker",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1725501952933/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Emerging Technologies",
+                    "org": "Santander",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1715567356222/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "AWS Cloud Best Practices",
+                    "org": "Amazon",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1730666683292/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                },
+                {
+                    "title": "Cisco Networks",
+                    "org": "Cisco",
+                    "link": "https://www.linkedin.com/in/davidagr/details/certifications/1635554261279/single-media-viewer/?profileId=ACoAADC9mdUBhLdwr6j_C-fqyZilLiCrg2cPpFE"
+                }
+            ]
+        },
+        "achievements": {
+            "title": "Achievements",
+            "items": [
+                "Selected for the Harvard Leadership Program (Aspire), 2025.",
+                "National Finalist at Talent Land Hackathon, 2025.",
+                "Admitted to the top talent program in LATAM for software development (Makers), 2025.",
+                "CUE Academic Excellence Award at La Salle, 2024.",
+                "Recognized as a speaker in technology entrepreneurship, 2024."
+            ]
+        },
+        "contact": {
+            "title": "Contact",
+            "name": "Name",
+            "email": "Email",
+            "message": "Message",
+            "send": "Send"
+        }
+    }
+}
