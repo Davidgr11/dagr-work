@@ -62,27 +62,9 @@ data/
 
 ---
 
-## ✏️ Personalización
-
-- **Edita tu información** en `data/content.json` (proyectos, certificaciones, logros, textos, etc.) en ambos idiomas.
-- **Agrega tus imágenes** en `assets/projects/` y tus íconos en `assets/icons/`.
-- **Cambia los colores** en `styles/_variables.scss`.
-- **Reemplaza el favicon** en `assets/favicon.svg` si lo deseas.
-- **Agrega o quita secciones** fácilmente editando el JSON y los componentes en JS.
-
----
-
 ## 🌐 Multilenguaje
 
 Todo el contenido se gestiona desde `data/content.json` y puedes alternar entre español e inglés con el botón superior.
-
----
-
-## ☁️ Despliegue rápido
-
-- **Netlify**: Solo arrastra la carpeta al dashboard de Netlify.
-- **Vercel**: Sube el repo y selecciona como proyecto estático.
-- **GitHub Pages**: Sube el contenido y configura la rama como página.
 
 ---
 
