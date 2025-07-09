@@ -25,7 +25,7 @@ Modern, responsive, and animated personal portfolio — perfect for showcasing y
 
 ## ✅ Great Performance
 
-PageSpeed Insights: [AQUÍ](https://pagespeed.web.dev/analysis/https-dagr-netlify-app/3nzhdhfvsk?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext)
+PageSpeed Insights: [HERE](https://pagespeed.web.dev/analysis/https-dagr-netlify-app/3nzhdhfvsk?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext)
 
 ![Lighthouse](/assets/lighthouse.png)
 ---
