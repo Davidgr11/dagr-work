@@ -433,7 +433,7 @@ body.light {
   gap: 2rem;
 }
 .achievements__list li {
-  background: rgba(105, 105, 105, 0.518);
+  background: rgba(255, 255, 255, 0.12);
   border-radius: 1.2rem;
   margin-bottom: 0.7rem;
   padding: 1rem 3rem;
@@ -452,7 +452,7 @@ body.light {
   gap: 3rem;
 }
 .contact__input, .contact__textarea {
-  border: 1.5px solid #00ffe7;
+  border: 1.5px solid #1e90ff;
   border-radius: 1.2rem;
   padding: 1rem 3rem;
   font-size: 1.6rem;
