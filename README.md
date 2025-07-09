@@ -1,82 +1,95 @@
-# Portafolio Profesional — David A. González R.
+# Professional Portfolio — David A. González R.
 
-Link: [Preview](https://dagr.work)
+![PREVIEW](https://dagr.netlify.app)
 
 > **Software Engineer & Fullstack Developer**
 
-Portafolio personal moderno, responsive y animado, ideal para mostrar tu experiencia, proyectos, certificaciones y logros. Incluye soporte multilenguaje (español/inglés), dark/light mode, animaciones de partículas y arquitectura escalable.
+Modern, responsive, and animated personal portfolio — perfect for showcasing your experience, projects, certifications, and achievements. Includes multilingual support (Spanish/English), dark/light mode, particle animations, and scalable architecture.
 
 ---
 
-## 🚀 Tecnologías principales
+## 🚀 Main Technologies
 
 - **HTML5, CSS3 (SASS), JavaScript (ES6+)**
-- Arquitectura BEM para estilos
-- Animaciones con [particles.js](https://vincentgarreau.com/particles.js/)
+- BEM architecture for styles
+- Animations with [particles.js](https://vincentgarreau.com/particles.js/)
 - Responsive Design (Mobile First)
-- JSON para contenido multilenguaje
+- JSON for multilingual content
 
 ---
 
-## 📁 Estructura del proyecto
+## 📱 Responsive Design
+![Responsively](/assets/responsively.png)
+
+---
+
+## ✅ Excelent Performance
+PageSpeed Insights: [AQUÍ](https://pagespeed.web.dev/analysis/https-dagr-netlify-app/3nzhdhfvsk?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext)
+![Lighthouse](/assets/lighthouse.png)
+---
+
+## 📁 Project Structure
 
 ```
 assets/
-  ├── icons/           # Íconos de tecnologías
-  ├── projects/        # Imágenes de proyectos
-  ├── preview.png      # Imagen de preview para el README
-  └── favicon.svg      # Favicon SVG
+  ├── icons/           # Technology icons
+  ├── projects/        # Project images
+  ├── preview.png      # Preview image for the README
+  └── favicon.svg      # SVG Favicon
 scripts/
-  ├── main.js          # Lógica principal (render, idioma, dark mode, animaciones)
-  └── particles.js     # Librería de partículas
+  ├── main.js          # Main logic (render, language, dark mode, animations)
+  └── particles.js     # Particle library
 styles/
-  ├── main.scss        # Estilos principales (SASS)
-  ├── _variables.scss  # Variables de color, tipografía, etc.
-  └── _mixins.scss     # Mixins reutilizables
-index.html             # Página principal
-README.md              # Este archivo
-package.json           # Dependencias para SASS (opcional)
+  ├── main.scss        # Main styles (SASS)
+  ├── _variables.scss  # Color, typography variables, etc.
+  └── _mixins.scss     # Reusable mixins
+index.html             # Main page
+README.md              # This file
+package.json           # SASS dependencies (optional)
 data/
-  └── content.json     # Todo el contenido en ES/EN
+  └── content.json     # All content in ES/EN
 ```
 
 ---
 
-## 🛠️ ¿Cómo usar?
+## 🛠️ How to Use
 
-1. **Clona el repositorio**
+1. **Clone the repository**
    ```bash
    git clone <repo-url>
-   cd <carpeta>
+   cd <folder>
    ```
-2. **Instala SASS** (si quieres editar los estilos)
+2. **Install SASS** (if you want to edit styles)
    ```bash
    npm install -g sass
    ```
-3. **Compila los estilos**
+3. **Compile styles**
    ```bash
    sass styles/main.scss styles/main.css --watch
    ```
-4. **Abre `index.html` en tu navegador**
-   - O sube el proyecto a Netlify, Vercel, GitHub Pages, etc.
+4. **Open `index.html` in your browser**
+   - Or deploy the project to Netlify, Vercel, GitHub Pages, etc.
 
 ---
 
-## 🌐 Multilenguaje
+## 🌐 Multilanguage
 
-Todo el contenido se gestiona desde `data/content.json` y puedes alternar entre español e inglés con el botón superior.
+All content is managed from `data/content.json` and you can switch between Spanish and English with the top button.
 
 ---
 
-## 👨‍💻 Autor y créditos
+## ☁️ Quick Deployment
 
-Desarrollado por **David A. González R.**
+- **Netlify**: Just drag the folder to the Netlify dashboard.
+- **Vercel**: Upload the repo and select as a static project.
+- **GitHub Pages**: Upload the content and set the branch as a page.
+
+---
+
+## 👨‍💻 Author & Credits
+
+Developed by **David A. González R.**
 
 - [LinkedIn](https://www.linkedin.com/in/davidagr/)
 - [GitHub](https://github.com/davidagr)
 
-Inspirado en los mejores portafolios modernos y optimizado para destacar en procesos de selección de tecnología y software.
-
----
-
-¡Éxito en tus aplicaciones y proyectos! 🚀 
