@@ -1,4 +1,4 @@
-let lang = 'es';
+let lang = 'en';
 let dark = true;
 let content = {};
 
@@ -13,8 +13,8 @@ const langToggle = document.getElementById('lang-toggle');
 const themeToggle = document.getElementById('theme-toggle');
 
 langToggle.addEventListener('click', () => {
-  lang = lang === 'es' ? 'en' : 'es';
-  langToggle.textContent = lang === 'es' ? 'ES' : 'EN';
+  lang = lang === 'en' ? 'es' : 'en';
+  langToggle.textContent = lang === 'en' ? 'EN' : 'ES';
   renderAll();
 });
 
@@ -183,4 +183,4 @@ document.addEventListener('DOMContentLoaded', () => {
       retina_detect: true
     });
   }
-}); 
+});
